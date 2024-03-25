@@ -1,0 +1,8 @@
+F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/.utmp/RelWithDebInfo/3n643m1b/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/.utmp/RelWithDebInfo/3n643m1b/arm64-v8a/CMakeFiles/rebuild_cache.dir
+F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/.utmp/RelWithDebInfo/3n643m1b/arm64-v8a/GameActivity/CMakeFiles/game.dir
+F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/.utmp/RelWithDebInfo/3n643m1b/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/.utmp/RelWithDebInfo/3n643m1b/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/.utmp/RelWithDebInfo/3n643m1b/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/.utmp/RelWithDebInfo/3n643m1b/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/.utmp/RelWithDebInfo/3n643m1b/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v5
+187	1435	7327457206255038	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f11288cf4f992c92
+4	3989	7327457231837318	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e7312266042ab23c
+1436	5715	7327457246627154	F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3n643m1b/obj/arm64-v8a/libswappywrapper.so	339db172e5451231
+124	3666	7327457228442706	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	888985d27c84fea2
+99	3338	7327457225243490	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4b4e5f3bb2f872ff
+153	3577	7327457227245500	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8dcd33968cfa9a30
+3990	5699	7327457246627154	F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3n643m1b/obj/arm64-v8a/libgame.so	60020d5df9271425
+28	3717	7327457229099558	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	24319023fd4fbf12
+52	3427	7327457225732769	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4fa266e68d4c8f74
+75	3972	7327457231673838	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7db39fd92bea7ce4
+137	823	7327474170884880	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	f11288cf4f992c92
+52	2278	7327474185136163	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4b4e5f3bb2f872ff
+213	2313	7327474185772990	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8dcd33968cfa9a30
+4	2546	7327474188107261	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4fa266e68d4c8f74
+172	2585	7327474188506211	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	888985d27c84fea2
+76	2793	7327474189573359	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	24319023fd4fbf12
+28	2859	7327474191242035	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7db39fd92bea7ce4
+103	2892	7327474191575925	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e7312266042ab23c
+824	3724	7327474197910734	F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3n643m1b/obj/arm64-v8a/libswappywrapper.so	339db172e5451231
+2892	3761	7327474198209960	F:/Program Files/Unity 2023.2.10f1c1/game/syntheticBigWatermelon/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3n643m1b/obj/arm64-v8a/libgame.so	60020d5df9271425
